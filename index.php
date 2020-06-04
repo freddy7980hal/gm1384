@@ -1,4 +1,4 @@
 <?php
-header("Location: https://rokucomlink.website/");
+header("Location: https://www.automaticlaundry.com/superior-service-solutions/");
 die();
 ?>
