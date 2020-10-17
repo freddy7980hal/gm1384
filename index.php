@@ -1,4 +1,4 @@
 <?php
-header("Location: https://nortactt.herokuapp.com/");
+header("Location: https://www.edenbrothers.com/store/planting-info.html");
 die();
 ?>
